@@ -1,73 +1,95 @@
-# Welcome to your Lovable project
+# Miami Dade DAO - Community Onboarding Platform
 
-## Project info
+A modern web platform for onboarding new members to the Miami Dade DAO community, providing access to Community ID registration and governance participation.
 
-**URL**: https://lovable.dev/projects/904bcadc-03f5-4c91-b3e5-bfb047e14426
+## About Miami Dade DAO
 
-## How can I edit this code?
+Miami Dade DAO is building the future of decentralized governance and community empowerment in Greater Miami through innovative blockchain technology. Our platform enables residents to participate in democratic decision-making for Miami Dade County initiatives through secure, blockchain-verified community identity.
 
-There are several ways of editing your application.
+## Features
 
-**Use Lovable**
+- **Community ID Integration**: Direct access to Miami Dade County Community ID registration
+- **Responsive Design**: Optimized for all devices with modern UI/UX
+- **Community Resources**: Links to Discord, Telegram, and governance documentation
+- **Secure Identity**: Blockchain-verified community participation
+- **Public Goods Funding**: Supporting projects that benefit the entire Miami community
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/904bcadc-03f5-4c91-b3e5-bfb047e14426) and start prompting.
+## Technology Stack
 
-Changes made via Lovable will be committed automatically to this repo.
+This project is built with modern web technologies:
 
-**Use your preferred IDE**
+- **React** - Frontend framework
+- **TypeScript** - Type-safe JavaScript
+- **Vite** - Fast build tool and development server
+- **Tailwind CSS** - Utility-first CSS framework
+- **shadcn/ui** - Modern component library
+- **Lucide React** - Beautiful icons
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## Getting Started
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Prerequisites
 
-Follow these steps:
+- Node.js (version 16 or higher)
+- npm or yarn package manager
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Installation
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+1. Clone the repository:
+```bash
+git clone <repository-url>
+cd miami-dade-dao
+```
 
-# Step 3: Install the necessary dependencies.
-npm i
+2. Install dependencies:
+```bash
+npm install
+```
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+3. Start the development server:
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+4. Open your browser and navigate to `http://localhost:8080`
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### Building for Production
 
-**Use GitHub Codespaces**
+```bash
+npm run build
+```
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+The built files will be available in the `dist` directory.
 
-## What technologies are used for this project?
+## Project Structure
 
-This project is built with:
+```
+src/
+├── components/ui/          # Reusable UI components
+│   ├── hero-section.tsx    # Main hero section
+│   ├── navigation.tsx      # Navigation component
+│   ├── resources-section.tsx # Community resources
+│   └── ...                 # Other UI components
+├── pages/                  # Page components
+├── assets/                 # Static assets
+└── lib/                    # Utility functions
+```
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## Community Links
 
-## How can I deploy this project?
+- **Community ID**: [https://miamiid.org/](https://miamiid.org/)
+- **White Paper**: [View Documentation](https://docsend.com/view/xm54cyautx7t7xr7)
+- **Discord**: [Join Community](https://discord.gg/Pv48nzFa)
+- **Telegram**: [Join Chat](https://t.me/miamidadedao1)
+- **Main Platform**: [https://linktr.ee/miamidadedao](https://linktr.ee/miamidadedao)
 
-Simply open [Lovable](https://lovable.dev/projects/904bcadc-03f5-4c91-b3e5-bfb047e14426) and click on Share -> Publish.
+## Contributing
 
-## Can I connect a custom domain to my Lovable project?
+We welcome contributions from the Miami Dade community! Please feel free to submit issues, feature requests, or pull requests.
 
-Yes, you can!
+## License
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+This project is open source and available under the MIT License.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---
+
+Built with ❤️ for the Miami Dade community
