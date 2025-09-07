@@ -1,10 +1,10 @@
 # Miami Dade DAO - Community Platform
 
-A modern web platform for onboarding new members to the Miami Dade DAO community, providing access to South Florida resources like education, libraries, parks and recreation through the Miami Community ID.
+A state-of-the-art Web3 technology platform for onboarding new members to the Miami DAO community. By providing access to South Florida's resources like education, libraries, parks and recreation to the most vulnerable communities in South Florida, we are committed to eradacate extreme poverty out of US cities starting from the most fragile elememts of our phygital era, privacy and identification.
 
 ## About Miami Dade DAO
 
-Miami Dade DAO is building the future of decentralized governance and community empowerment in Greater Miami through innovative blockchain technology. Our platform enables residents to participate in decision-making for Miami Dade County initiatives through secure, blockchain-verified community identity.
+Miami Dade DAO or Miami DAO is building the future of decentralized governance and community empowerment in Greater Miami through innovative blockchain technology. Our platform enables residents to participate in decision-making for South Florida initiatives starting with secure, blockchain-verified community identity.
 
 ## Features
 
