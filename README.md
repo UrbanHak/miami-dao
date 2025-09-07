@@ -1,6 +1,6 @@
 # Miami Dade DAO - Community Platform
 
-A modern web platform for onboarding new members to the Miami Dade DAO community, providing access to South Florida resources like ducation, libraries, parks and recreation through the Miami Community ID.
+A modern web platform for onboarding new members to the Miami Dade DAO community, providing access to South Florida resources like education, libraries, parks and recreation through the Miami Community ID.
 
 ## About Miami Dade DAO
 
